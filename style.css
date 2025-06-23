@@ -870,6 +870,11 @@ button {
         margin-top: 15px;
     }
 
+    .about-link {
+        display: flex;
+        flex-direction: column;
+    }
+
     .button-links {
         position: absolute;
         bottom: 15%;
@@ -1060,6 +1065,11 @@ button {
     .news {
         display: flex;
         width: max-content;
+        gap: 1rem;
+    }
+
+    .news button {
+        padding: 10px;
     }
 
     .cove p {
