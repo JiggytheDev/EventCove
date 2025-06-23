@@ -79,6 +79,11 @@ nav .button-links {
     width: 350px;
 }
 
+.about-links {
+    display: flex;
+    flex-direction: row;
+}
+
 .about a {
     color: hsla(0, 0%, 20%, 0.582);
     font-size: 18px;
