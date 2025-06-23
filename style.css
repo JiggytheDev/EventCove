@@ -866,9 +866,9 @@ button {
         display: flex;
         flex-direction: column;
         background-color: hsl(300, 100%, 25%);
-        height: 100vh;
+        height: max-content;
         border: none;
-        width: 500px;
+        width: 425px;
     }
 
     .about a {
