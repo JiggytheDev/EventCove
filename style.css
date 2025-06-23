@@ -858,7 +858,7 @@ button {
     .mobile {
         display: none;
         position: absolute;
-        top: 19%;
+        top: 0%;
     }
 
     .about {
@@ -883,7 +883,7 @@ button {
 
     .button-links {
         position: absolute;
-        bottom: 45%;
+        bottom: 25%;
         flex-direction: column;
         width: 100%;
     }
