@@ -863,7 +863,7 @@ button {
         background-color: hsl(300, 100%, 25%);
         height: 100vh;
         border: none;
-        width: 100%;
+        width: 100vw;
     }
 
     .about a {
@@ -1071,7 +1071,7 @@ button {
     }
 
     .news button {
-        padding: 5px;
+        padding: 0;
     }
 
     .cove p {
