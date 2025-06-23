@@ -853,7 +853,7 @@ button {
     .mobile {
         display: none;
         position: absolute;
-        top: 9%;
+        top: 19%;
     }
 
     .about {
@@ -863,6 +863,7 @@ button {
         background-color: hsl(300, 100%, 25%);
         height: 100vh;
         border: none;
+        width: 100%;
     }
 
     .about a {
@@ -873,11 +874,12 @@ button {
     .about-link {
         display: flex;
         flex-direction: column;
+        gap: 1.5rem;
     }
 
     .button-links {
         position: absolute;
-        bottom: 15%;
+        bottom: 45%;
         flex-direction: column;
         width: 100%;
     }
@@ -1069,7 +1071,7 @@ button {
     }
 
     .news button {
-        padding: 10px;
+        padding: 5px;
     }
 
     .cove p {
