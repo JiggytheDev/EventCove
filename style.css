@@ -945,7 +945,6 @@ button {
         height: max-content;
         align-items: start;
         justify-content: center;
-        border: 1px solid red;
         width: 100%;
     }
 
@@ -960,6 +959,7 @@ button {
 
     details {
         border-bottom: 1px solid hsla(0, 0%, 20%, 0.63);
+        list-style-type: none;
     }
 
     hr {
@@ -1020,6 +1020,7 @@ button {
     #newsletter {
         flex-direction: row;
         border: 1px solid red;
+        width: max-content;
     }
 
     .news {
