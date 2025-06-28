@@ -969,7 +969,6 @@ button {
     .dropdown summary {
         width: 100%;
         gap: .5rem;
-        border: 1px solid red;
     }
 
     .dropdown h4 {
