@@ -957,9 +957,9 @@ button {
         flex-flow: column nowrap;
     }
 
-    details {
+    .dropdown details {
         border-bottom: 1px solid hsla(0, 0%, 20%, 0.63);
-        list-style-type: none;
+        list-style: none;
     }
 
     hr {
